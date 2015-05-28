@@ -1339,7 +1339,7 @@ input[type="file"] {
 select {
   width: 220px;
   border: 1px solid #cccccc;
-  background-color: #ffffff;
+  background-color: #00000;
 }
 select[multiple],
 select[size] {
